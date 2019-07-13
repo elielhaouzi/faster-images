@@ -1,0 +1,7 @@
+name: FasterImages
+version: '1.0'
+description: 'Easily optimize images when assets has been uploaded'
+url: 'https://github.com/elielhaouzi/faster-images'
+developer: 'Eliel Haouzi'
+developer_url: 'https://github.com/elielhaouzi'
+commercial: true

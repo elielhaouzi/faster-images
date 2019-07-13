@@ -1,0 +1,6 @@
+{
+    "name": "eliel-haouzi/fasterimages",
+    "require": {
+        "ps/image-optimizer": "^1.2"
+    }
+}
